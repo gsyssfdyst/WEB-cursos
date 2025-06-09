@@ -18,5 +18,3 @@
     console.log( "12");
     console.log( "14");
 }
-
-sdsass
