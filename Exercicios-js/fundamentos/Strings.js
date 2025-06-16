@@ -11,7 +11,6 @@ console.log(escola.substring(0, 3)); // Exibe a substring do índice 0 até o í
 
 console.log("Escola ".concat(escola).concat("!")); // Concatena a string "Escola " com o valor de escola e "!" no final
 console.log("Escola " + escola + "!"); // Outra forma de concatenar strings
-c
 console.log(escola.replace(3, 'e')); // Substitui o caractere '3' por 'e'
 
 console.log("Ana, Maria, Pedro".split(",")); // Divide a string em um array usando a vírgula como delimitador
